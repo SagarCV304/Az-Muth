@@ -1,0 +1,13 @@
+Num1 = 10
+Num2 = 30
+print('Num1=',Num1)
+print('Num2=',Num2)
+print(Num1+Num2)
+print(Num2-Num1)
+print(Num1*Num2)
+print(Num2/Num1)
+# Apply arithmetic operations and display results
+print('Num1+Num2=',Num1+Num2)
+print('Num2-Num1=',Num2-Num1)
+print('Num1*Num2=',Num1*Num2)
+print('Num2/Num1=',Num2/Num1)
